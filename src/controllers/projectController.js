@@ -1,4 +1,4 @@
-import Projects from "../models/projects.js";
+import Projects from "../models/Projects.js";
 
 // Create a new project (client only)
 export const createProject = async (req, res) => {
